@@ -1,6 +1,6 @@
 # IPTV ChezMoi
 <p align="center">
-  <img src="iptv-chezmoi.png" alt="IPTV ChezMoi Logo" width="700"/>
+  <img src="iptv-chezmoi.png" alt="IPTV ChezMoi Logo" width="300"/>
 </p>
 This repository is dedicated at helping users of the application "IPTV ChezMoi" available on Apple TV
 
