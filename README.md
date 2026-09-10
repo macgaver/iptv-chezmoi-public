@@ -1,4 +1,4 @@
-# iptv-chezmoi-public
+# IPTV ChezMoi
 
 This repository is dedicated at helping users of the application "IPTV ChezMoi" available on Apple TV
 
